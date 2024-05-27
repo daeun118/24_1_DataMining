@@ -145,6 +145,7 @@ silhouette score = 0.16으로 높지 않았고, 직접 확인 하였을 때도 �
 - 선정된 최적 모델의 학습을 위해 train 데이터와 valid 데이터를 병합: X_train_final, y_train_final
 
 - X_train_final, y_train_final으로 교차검증 진행
+
 |model|cross-validation score(cv=5)|
 |-----|-----|
 |SVM|0.848|
